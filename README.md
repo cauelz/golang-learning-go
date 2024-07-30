@@ -12,7 +12,7 @@ This repository is dedicated to my study and practice of the Go language, follow
 
 ## About the Book
 
-[**"Learning Go"**] (https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/) is a comprehensive guide for both beginners and experienced developers who want to learn the Go programming language. Written by Jon Bodner, the book covers everything from basic concepts to advanced topics, including best practices and practical examples.
+[**"Learning Go"**](https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/) is a comprehensive guide for both beginners and experienced developers who want to learn the Go programming language. Written by Jon Bodner, the book covers everything from basic concepts to advanced topics, including best practices and practical examples.
 
 ## Objectives
 
